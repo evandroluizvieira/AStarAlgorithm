@@ -53,6 +53,7 @@ class Node : public Position2D{
 		 * @brief Calculates the heuristic (estimated cost) from this node to the goal node.
 		 *
 		 * @param goal The goal node.
+		 *
 		 * @return The heuristic value.
 		 */
 		double calculateHeuristic(const Node& goal);
