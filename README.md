@@ -1,6 +1,6 @@
 # A* Algorithm
 
-![Logo](https://github.com/evandroluizvieira/AStarAlgorithm/blob/main/resource/Brand.png)
+![Logo](https://github.com/evandroluizvieira/AStarAlgorithm/blob/master/resource/Brand.png)
 
 [![C++](https://img.shields.io/badge/C++-004488)](https://cplusplus.com/)
 [![BSL1.0 License](https://img.shields.io/badge/License-BSL-green.svg)](https://choosealicense.com/licenses/bsl-1.0/)
